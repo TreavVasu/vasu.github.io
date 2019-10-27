@@ -1,1 +1,20 @@
 home.htm
+<html>
+    <head>
+    <title>
+        Vasu Soni
+        ||Coder || Developer || Tech enthusiast || </title>
+    </head>
+    <body>
+    <div align="centre">
+        
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <h1>
+        
+        Landing Page Under Construction 
+        </h1>
+        
+        </div></body>
+
+    
+</html>
